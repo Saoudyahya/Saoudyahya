@@ -32,7 +32,7 @@ Hello! I'm Saoud, a **software developer based in Casablanca**, with a keen inte
 ---
 
 ### 📫 Let's Connect
-- **[LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/yahya-saoud-206781264/))**
+- **[LinkedIn]((https://www.linkedin.com/in/yahya-saoud-206781264/))**
 - **[Email](saoudyahya123@gmail.com)**
 - **[Portfolio](https://your-portfolio-site.com)**
 
