@@ -26,7 +26,7 @@ Hello! I'm Saoud, a **software developer based in Casablanca**, with a keen inte
 
 ### 📚 Current Focus
 - Advancing my skills in **MLOps** and exploring opportunities in **AIOps**
-- Working on freelance back-end development projects on Upwork
+- Working on freelance back-end development and machine learning engineering projects on Upwork
 - Pursuing a **Master’s in Artificial Intelligence**, focusing on **AI applications in automation and dynamic infrastructure**
 
 ---
