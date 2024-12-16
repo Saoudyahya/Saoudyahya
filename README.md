@@ -8,7 +8,7 @@ Hello! I'm Saoud, a **software developer based in Casablanca**, with a keen inte
 
 ### 🛠 Skills and Tools
 - **Programming Languages**: Python, Java, JavaScript, PHP, SQL
-- **Frontend & Backend Development**: HTML, CSS, React, React Native, Laravel, Flask
+- **Frontend & Backend Development**: HTML, CSS, React, React Native, Laravel, Flask , FastAPI
 - **Microservices**: Spring Boot, Spring Cloud, RabbitMQ, API Gateway, JWT
 - **Databases**: PostgreSQL, MongoDB, SQL
 - **DevOps Tools**: Jenkins, Docker, Kubernetes, Helm, Prometheus, Grafana
