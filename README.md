@@ -39,7 +39,7 @@ Hello! I'm Saoud, a **software developer based in Casablanca**, with a keen inte
 ---
 
 ### 🌱 Featured Projects
-1. **Microservices Architecture with Kubernetes** – Built a scalable microservices application using Spring Boot, Spring Cloud, and Docker/Kubernetes.
+1. **Microservices Architecture with Docker** – Built a scalable microservices application using Spring Boot, Spring Cloud, and Docker/CICD.
 2. **AI-Driven Journal Generation** – Deployed a custom GPT-2 model for automated journal content creation.
 3. **Fake News Detection System** – Developed a machine learning model to detect and classify fake news articles in real-time.
 
