@@ -12,7 +12,7 @@ Hello! I'm Saoud, a **software developer based in Casablanca**, passionate about
 - **Databases**: PostgreSQL, MongoDB, SQL  
 - **DevOps & Cloud**: Jenkins, Docker, Kubernetes, Helm, Prometheus, Grafana  
 - **Machine Learning**: TensorFlow, PyTorch, Pandas, Kaggle  
-- **Additional Expertise**: Kubernetes-based ML projects, MLOps pipelines, and CI/CD automation  
+- **Additional Expertise**: Kubernetes-based ML projects, MLOps pipelines, and CI/CD automation,Jenkins 
 
 ---
 
