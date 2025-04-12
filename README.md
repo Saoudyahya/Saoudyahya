@@ -11,7 +11,8 @@ Hello! I'm Saoud, a **software developer based in Casablanca**, passionate about
 - **Microservices & Architecture**: Spring Boot, Spring Cloud, RabbitMQ, API Gateway, JWT  
 - **Databases**: PostgreSQL, MongoDB, SQL  
 - **DevOps & Cloud**: Jenkins, Docker, Kubernetes, Helm, Prometheus, Grafana  
-- **Machine Learning**: TensorFlow, PyTorch, Pandas, Kaggle  
+- **Machine Learning**: TensorFlow, PyTorch, Pandas, Kaggle
+- **Large Language Models (LLMs)**: Retrieval-Augmented Generation (RAG), Agentic RAG
 - **Additional Expertise**: Kubernetes-based ML projects, MLOps pipelines, and CI/CD automation,Jenkins 
 
 ---
