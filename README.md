@@ -9,7 +9,7 @@ Hello! I'm Saoud, a **software developer based in Casablanca**, passionate about
 - **Programming Languages**: Python, Java, JavaScript, PHP, SQL  
 - **Frontend & Backend Development**: HTML, CSS, React, React Native, Laravel, Flask, FastAPI  
 - **Microservices & Architecture**: Spring Boot, Spring Cloud, RabbitMQ, API Gateway, JWT  
-- **Databases**: PostgreSQL, MongoDB, SQL  
+- **Databases**: PostgreSQL, MongoDB, SQL , Redis
 - **DevOps & Cloud**: Jenkins, Docker, Kubernetes, Helm, Prometheus, Grafana  
 - **Machine Learning**: TensorFlow, PyTorch, Pandas, Kaggle
 - **Large Language Models (LLMs)**: Retrieval-Augmented Generation (RAG), Agentic RAG
