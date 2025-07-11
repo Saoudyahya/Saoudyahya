@@ -91,6 +91,17 @@ From developing microservices architectures to deploying machine learning models
 
 ---
 
+## 🏆 Certifications
+
+### **Cloud Native & Kubernetes**
+![KCNA](https://img.shields.io/badge/KCNA-Kubernetes_and_Cloud_Native_Associate-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![LFS250](https://img.shields.io/badge/LFS250-Kubernetes_and_Cloud_Native_Essentials-0066CC?style=flat&logo=linux-foundation&logoColor=white)
+
+🔹 **KCNA (Kubernetes and Cloud Native Associate)** - Cloud Native Computing Foundation  
+🔹 **LFS250: Kubernetes and Cloud Native Essentials** - The Linux Foundation  
+
+---
+
 ## 🎯 Current Focus Areas
 
 🔹 **MLOps Excellence**: Deployed 3 production ML applications in Kubernetes with comprehensive monitoring via Prometheus & Grafana using Helm charts  
