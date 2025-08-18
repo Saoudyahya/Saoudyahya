@@ -44,6 +44,7 @@ From developing microservices architectures to deploying machine learning models
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3C4043?style=flat&logo=oauth&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 
 ### **Databases & Data Storage**
@@ -69,6 +70,7 @@ From developing microservices architectures to deploying machine learning models
 ### **DevOps & Cloud Infrastructure**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Kind](https://img.shields.io/badge/Kind-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=flat&logo=amazon-eks&logoColor=white)
 ![AWS ECS](https://img.shields.io/badge/AWS_ECS-FF9900?style=flat&logo=amazon-ecs&logoColor=white)
 ![AWS ECR](https://img.shields.io/badge/AWS_ECR-FF9900?style=flat&logo=amazon-aws&logoColor=white)
@@ -80,6 +82,7 @@ From developing microservices architectures to deploying machine learning models
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elastic&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
 ### **Infrastructure as Code & GitOps**
@@ -111,8 +114,10 @@ From developing microservices architectures to deploying machine learning models
 
 ## 🎯 Current Focus Areas
 
+🔹 **Enterprise E-Commerce Solutions**: Delivered comprehensive cloud-native e-commerce ecosystem with 8 microservices, achieving 70% API optimization and <200ms response times  
 🔹 **MLOps Excellence**: Deployed 3 production ML applications in Kubernetes with comprehensive monitoring via Prometheus & Grafana using Helm charts  
 🔹 **GitOps & IaC Mastery**: Implementing GitOps workflows with ArgoCD and Infrastructure as Code using Terraform and Kustomize for declarative deployments  
+🔹 **Multi-Repository Architecture**: Managing complex projects with 7+ specialized repositories, from local kind development to production AWS EKS deployment  
 🔹 **AIOps Innovation**: Exploring AI-powered infrastructure optimization  
 🔹 **LLM Engineering**: Building production-ready LLM applications with RAG and agent frameworks  
 🔹 **DevSecOps**: Implementing security-first CI/CD pipelines with automated vulnerability scanning  
@@ -123,6 +128,17 @@ From developing microservices architectures to deploying machine learning models
 ---
 
 ## 🌟 Featured Projects
+
+### 🚀 **NexusCommerce - Complete Cloud-Native E-Commerce Ecosystem**
+Architected and deployed a comprehensive, enterprise-grade e-commerce platform showcasing modern microservices patterns and DevOps excellence.
+- **Multi-Service Architecture**: 8 microservices (Spring Boot + Go) with event-driven communication via Apache Kafka and parallel message processing
+- **Multi-Repository Setup**: 7 specialized repositories including microservices backend, Next.js frontend, React admin dashboard, Helm charts, Terraform infrastructure, GitOps manifests, and centralized configuration
+- **Local-to-Cloud Journey**: Validated architecture with **kind (Kubernetes in Docker)** for rapid local development, then seamlessly migrated to production **AWS EKS** using Terraform
+- **One-Command Deployment**: Complete platform deployment with 6 modular Helm charts supporting multi-environment configurations (dev/staging/prod)
+- **GitOps Excellence**: ArgoCD-driven deployments with progressive delivery and environment-based pipelines
+- **Performance Optimization**: Achieved 70% API call reduction through BFF pattern, <200ms response times with Redis caching, and real-time processing with SSE notifications
+- **Collaboration**: Built in partnership with **Rekhla Zakaria**
+- **Visual Documentation**: [Application Architecture](https://app.eraser.io/workspace/el7sNnsJe96fEgJclztv?origin=share) | [K8s Infrastructure](https://app.eraser.io/workspace/g1l4mIvbfEltNHNNYP0G?origin=share) | [GitOps Pipeline](https://app.eraser.io/workspace/xb6q22SZFLAD0ftPeuNO?origin=share) | [AWS Integration](https://app.eraser.io/workspace/W0KDmrzgWrCJ2C659BIG?origin=share)
 
 ### 🏗️ **Enterprise Microservices Platform**
 Architected and deployed a scalable, production-ready microservices ecosystem using Spring Boot, Spring Cloud, and Docker, enhanced with robust CI/CD pipelines.
@@ -179,12 +195,14 @@ Designed and deployed end-to-end MLOps pipeline with 3 production ML application
 
 I'm always excited to work on innovative projects, especially those involving:
 - 🚀 MLOps and automated ML pipelines with LLM integration
+- 🛒 Enterprise e-commerce platforms and complex microservices ecosystems
 - ⚡ Scalable microservices architectures and system design
 - 🤖 AI-powered automation solutions using LangChain and RAG
 - 🔧 DevSecOps and infrastructure optimization with security-first approach
 - ☁️ GitOps workflows and Infrastructure as Code with Terraform, ArgoCD, and Kustomize
 - 🧠 Advanced AI research in mechanistic interpretability and self-supervised learning
 - 🌐 Cloud-native solutions with Pulumi, EKS, and containerized deployments
+- 👥 Collaborative development on multi-repository, enterprise-scale projects
 
 **Ready to turn ideas into reality? Let's connect!**
 
