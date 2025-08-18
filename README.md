@@ -74,10 +74,17 @@ From developing microservices architectures to deploying machine learning models
 ![AWS ECR](https://img.shields.io/badge/AWS_ECR-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
 ![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=flat&logo=pulumi&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+
+### **Infrastructure as Code & GitOps**
+![IaC](https://img.shields.io/badge/Infrastructure_as_Code-FF6B35?style=flat&logo=terraform&logoColor=white)
+![GitOps](https://img.shields.io/badge/GitOps-2088FF?style=flat&logo=git&logoColor=white)
 
 ### **DevSecOps & Quality Assurance**
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
@@ -105,9 +112,11 @@ From developing microservices architectures to deploying machine learning models
 ## 🎯 Current Focus Areas
 
 🔹 **MLOps Excellence**: Deployed 3 production ML applications in Kubernetes with comprehensive monitoring via Prometheus & Grafana using Helm charts  
+🔹 **GitOps & IaC Mastery**: Implementing GitOps workflows with ArgoCD and Infrastructure as Code using Terraform and Kustomize for declarative deployments  
 🔹 **AIOps Innovation**: Exploring AI-powered infrastructure optimization  
 🔹 **LLM Engineering**: Building production-ready LLM applications with RAG and agent frameworks  
 🔹 **DevSecOps**: Implementing security-first CI/CD pipelines with automated vulnerability scanning  
+🔹 **Cloud-Native Architecture**: Designing scalable, resilient systems using GitOps principles and IaC best practices  
 🔹 **Freelance Growth**: Building expertise through diverse back-end and ML engineering projects on Upwork  
 🔹 **Academic Advancement**: Pursuing Master's in AI with focus on mechanistic interpretability and self-supervised learning  
 
@@ -121,30 +130,38 @@ Architected and deployed a scalable, production-ready microservices ecosystem us
 - **Infrastructure & Messaging**: Integrated Docker for containerization, RabbitMQ for asynchronous messaging, and PostgreSQL for persistent storage.
 - **DevOps Automation**: Built end-to-end CI/CD pipelines using Jenkins, enabling auto-scaling, rolling updates, and centralized monitoring for production readiness.
 
+### ☁️ **Cloud-Native GitOps Platform**
+Designed and implemented a comprehensive GitOps-driven infrastructure platform using modern IaC principles and automated deployment strategies.
+- **Infrastructure as Code**: Provisioned AWS infrastructure using Terraform with modular, reusable configurations
+- **GitOps Workflow**: Implemented ArgoCD for declarative, Git-driven deployments with automatic synchronization
+- **Configuration Management**: Utilized Kustomize for environment-specific Kubernetes configurations and overlay management
+- **Highlights**: Zero-downtime deployments, infrastructure drift detection, automated rollbacks, and multi-environment management
 
 ### 🤖 **AI-Powered Content Generator with Agentic RAG**
 Developed and deployed a sophisticated LLM-based content generation system with retrieval-augmented generation capabilities using LangChain.
-- **Tech Stack**: Python, LangChain, TensorFlow, Kubernetes, Docker, Vector DB
-- **Highlights**: Real-time generation, Agentic RAG implementation, horizontal scaling, production deployment
+- **Tech Stack**: Python, LangChain, TensorFlow, Kubernetes, Docker, Vector DB, ArgoCD for deployment
+- **Highlights**: Real-time generation, Agentic RAG implementation, horizontal scaling, GitOps production deployment
 - **AI Focus**: Multi-agent RAG systems with intelligent orchestration and decision-making
 
 ### 🧬 **Self-Supervised Biodata Extraction System**
 Built an advanced self-supervised learning pipeline for automated biological data extraction and analysis with multiple downstream tasks.
 - **Tech Stack**: Python, PyTorch, Transformers, Self-supervised models, latentSpace
+- **Infrastructure**: Deployed using Terraform-managed infrastructure with Kustomize-based Kubernetes configurations
 - **Capabilities**: Automated biodata extraction, feature learning without labels, multi-task downstream applications
 - **Applications**: sequence analysis, animal structure prediction, latentspace record processing
 
 ### 👓 **SEE Smart Glasses (Accessibility Innovation)**
 Created intelligent glasses combining computer vision and NLP to assist visually impaired users with environmental awareness.
-- **Tech Stack**: YOLOv9, Python, OpenCV, LLM integration,React Native, Fastapi 
+- **Tech Stack**: YOLOv9, Python, OpenCV, LLM integration, React Native, FastAPI 
 - **Mission**: Making technology more inclusive and accessible
 - **Architecture**: System design for real-time processing and low-latency inference
 
 ### 🔄 **Production MLOps Platform - 3 ML Applications Deployment**
-Designed and deployed end-to-end MLOps pipeline with 3 production ML applications in Kubernetes.
-- **Tech Stack**: Transformers, RNN, LSTM, Kubernetes, Helm Charts
-- **Deployment**: 3 ML applications with Prometheus & Grafana monitoring stack
-- **Features**: Automated model prediction, fast deployment, monitoring, real-time metrics
+Designed and deployed end-to-end MLOps pipeline with 3 production ML applications in Kubernetes using GitOps principles.
+- **Tech Stack**: Transformers, RNN, LSTM, Kubernetes, Helm Charts, ArgoCD, Kustomize
+- **Infrastructure**: Terraform-provisioned AWS EKS with GitOps-driven deployments and Kustomize overlays
+- **Deployment**: 3 ML applications with Prometheus & Grafana monitoring stack, automated via ArgoCD
+- **Features**: Automated model prediction, fast deployment, monitoring, real-time metrics, and declarative infrastructure
 
 ---
 
@@ -165,8 +182,9 @@ I'm always excited to work on innovative projects, especially those involving:
 - ⚡ Scalable microservices architectures and system design
 - 🤖 AI-powered automation solutions using LangChain and RAG
 - 🔧 DevSecOps and infrastructure optimization with security-first approach
+- ☁️ GitOps workflows and Infrastructure as Code with Terraform, ArgoCD, and Kustomize
 - 🧠 Advanced AI research in mechanistic interpretability and self-supervised learning
-- ☁️ Cloud-native solutions with Pulumi, EKS, and containerized deployments
+- 🌐 Cloud-native solutions with Pulumi, EKS, and containerized deployments
 
 **Ready to turn ideas into reality? Let's connect!**
 
