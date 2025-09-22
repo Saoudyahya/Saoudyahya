@@ -84,6 +84,7 @@ From developing microservices architectures to deploying machine learning models
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elastic&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=grpc&logoColor=white)
 
 ### **Infrastructure as Code & GitOps**
 ![IaC](https://img.shields.io/badge/Infrastructure_as_Code-FF6B35?style=flat&logo=terraform&logoColor=white)
