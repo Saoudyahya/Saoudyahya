@@ -99,6 +99,8 @@ From developing microservices architectures to deploying machine learning models
 ![System Design](https://img.shields.io/badge/System_Design-000000?style=flat&logo=architecture&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=flat&logo=microservices&logoColor=white)
 ![Event-Driven](https://img.shields.io/badge/Event_Driven-4ECDC4?style=flat&logo=apache-kafka&logoColor=white)
+![Service Mesh](https://img.shields.io/badge/Service_Mesh-466BB0?style=flat&logo=istio&logoColor=white)
+
 
 ---
 
