@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🌍 Software Developer | MLOps & DevOps Enthusiast | AI Explorer
+### 🌍 Software Developer | MLOps & DevOps Engineer | AI Explorer
 
 *Bridging the gap between development and deployment with innovative AI-driven solutions*
 
