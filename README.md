@@ -203,9 +203,7 @@ Designed and deployed end-to-end MLOps pipeline with 3 production ML application
 ### 📈 Contribution Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saoudyahya&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saoudyahya&layout=compact&theme=tokyonight)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saoudyahya&theme=tokyo-night)
 ---
 
 ## 🤝 Let's Collaborate
