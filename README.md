@@ -78,7 +78,9 @@ From developing microservices architectures to deploying machine learning models
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 ![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
+![Flux CD](https://img.shields.io/badge/Flux_CD-5468FF?style=flat&logo=flux&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat&logo=istio&logoColor=white)
+![Kiali](https://img.shields.io/badge/Kiali-1C2833?style=flat&logo=kiali&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
@@ -121,7 +123,8 @@ From developing microservices architectures to deploying machine learning models
 
 🔹 **Enterprise E-Commerce Solutions**: Delivered comprehensive cloud-native e-commerce ecosystem with 8 microservices, achieving 70% API optimization and <200ms response times  
 🔹 **MLOps Excellence**: Deployed 3 production ML applications in Kubernetes with comprehensive monitoring via Prometheus & Grafana using Helm charts  
-🔹 **GitOps & IaC Mastery**: Implementing GitOps workflows with ArgoCD and Infrastructure as Code using Terraform and Kustomize for declarative deployments  
+🔹 **GitOps & IaC Mastery**: Implementing GitOps workflows with ArgoCD, Flux CD and Infrastructure as Code using Terraform and Kustomize for declarative deployments  
+🔹 **Service Mesh Observability**: Leveraging Istio with Kiali for advanced traffic management, security policies, and real-time service mesh visualization  
 🔹 **Multi-Repository Architecture**: Managing complex projects with 7+ specialized repositories, from local kind development to production AWS EKS deployment  
 🔹 **AIOps Innovation**: Exploring AI-powered infrastructure optimization  
 🔹 **LLM Engineering**: Building production-ready LLM applications with RAG and agent frameworks  
@@ -140,7 +143,8 @@ Architected and deployed a comprehensive, enterprise-grade e-commerce platform s
 - **Multi-Repository Setup**: 7 specialized repositories including microservices backend, Next.js frontend, React admin dashboard, Helm charts, Terraform infrastructure, GitOps manifests, and centralized configuration
 - **Local-to-Cloud Journey**: Validated architecture with **kind (Kubernetes in Docker)** for rapid local development, then seamlessly migrated to production **AWS EKS** using Terraform
 - **One-Command Deployment**: Complete platform deployment with 6 modular Helm charts supporting multi-environment configurations (dev/staging/prod)
-- **GitOps Excellence**: ArgoCD-driven deployments with progressive delivery and environment-based pipelines
+- **GitOps Excellence**: ArgoCD and Flux CD-driven deployments with progressive delivery and environment-based pipelines
+- **Service Mesh Observability**: Implemented Istio service mesh with Kiali for traffic visualization, distributed tracing, and service health monitoring
 - **Performance Optimization**: Achieved 70% API call reduction through BFF pattern, <200ms response times with Redis caching, and real-time processing with SSE notifications
 - **Collaboration**: Built in partnership with **Rekhla Zakaria**
 - **Visual Documentation**: [Application Architecture](https://app.eraser.io/workspace/el7sNnsJe96fEgJclztv?origin=share) | [K8s Infrastructure](https://app.eraser.io/workspace/g1l4mIvbfEltNHNNYP0G?origin=share) | [GitOps Pipeline](https://app.eraser.io/workspace/xb6q22SZFLAD0ftPeuNO?origin=share) | [AWS Integration](https://app.eraser.io/workspace/W0KDmrzgWrCJ2C659BIG?origin=share)
@@ -154,20 +158,21 @@ Architected and deployed a scalable, production-ready microservices ecosystem us
 ### ☁️ **Cloud-Native GitOps Platform**
 Designed and implemented a comprehensive GitOps-driven infrastructure platform using modern IaC principles and automated deployment strategies.
 - **Infrastructure as Code**: Provisioned AWS infrastructure using Terraform with modular, reusable configurations
-- **GitOps Workflow**: Implemented ArgoCD for declarative, Git-driven deployments with automatic synchronization
+- **GitOps Workflow**: Implemented ArgoCD and Flux CD for declarative, Git-driven deployments with automatic synchronization and multi-cluster management
 - **Configuration Management**: Utilized Kustomize for environment-specific Kubernetes configurations and overlay management
+- **Service Mesh Integration**: Deployed Istio with Kiali for service-to-service communication observability and security
 - **Highlights**: Zero-downtime deployments, infrastructure drift detection, automated rollbacks, and multi-environment management
 
 ### 🤖 **AI-Powered Content Generator with Agentic RAG**
 Developed and deployed a sophisticated LLM-based content generation system with retrieval-augmented generation capabilities using LangChain.
-- **Tech Stack**: Python, LangChain, TensorFlow, Kubernetes, Docker, Vector DB, ArgoCD for deployment
+- **Tech Stack**: Python, LangChain, TensorFlow, Kubernetes, Docker, Vector DB, Flux CD for deployment
 - **Highlights**: Real-time generation, Agentic RAG implementation, horizontal scaling, GitOps production deployment
 - **AI Focus**: Multi-agent RAG systems with intelligent orchestration and decision-making
 
 ### 🧬 **Self-Supervised Biodata Extraction System**
 Built an advanced self-supervised learning pipeline for automated biological data extraction and analysis with multiple downstream tasks.
 - **Tech Stack**: Python, PyTorch, Transformers, Self-supervised models, latentSpace
-- **Infrastructure**: Deployed using Terraform-managed infrastructure with Kustomize-based Kubernetes configurations
+- **Infrastructure**: Deployed using Terraform-managed infrastructure with Kustomize-based Kubernetes configurations and Flux CD GitOps workflows
 - **Capabilities**: Automated biodata extraction, feature learning without labels, multi-task downstream applications
 - **Applications**: sequence analysis, animal structure prediction, latentspace record processing
 
@@ -179,9 +184,10 @@ Created intelligent glasses combining computer vision and NLP to assist visually
 
 ### 🔄 **Production MLOps Platform - 3 ML Applications Deployment**
 Designed and deployed end-to-end MLOps pipeline with 3 production ML applications in Kubernetes using GitOps principles.
-- **Tech Stack**: Transformers, RNN, LSTM, Kubernetes, Helm Charts, ArgoCD, Kustomize
+- **Tech Stack**: Transformers, RNN, LSTM, Kubernetes, Helm Charts, Flux CD, Kustomize
 - **Infrastructure**: Terraform-provisioned AWS EKS with GitOps-driven deployments and Kustomize overlays
-- **Deployment**: 3 ML applications with Prometheus & Grafana monitoring stack, automated via ArgoCD
+- **Deployment**: 3 ML applications with Prometheus & Grafana monitoring stack, automated via Flux CD
+- **Observability**: Integrated Kiali for service mesh visualization and distributed tracing across ML microservices
 - **Features**: Automated model prediction, fast deployment, monitoring, real-time metrics, and declarative infrastructure
 
 ---
@@ -204,7 +210,8 @@ I'm always excited to work on innovative projects, especially those involving:
 - ⚡ Scalable microservices architectures and system design
 - 🤖 AI-powered automation solutions using LangChain and RAG
 - 🔧 DevSecOps and infrastructure optimization with security-first approach
-- ☁️ GitOps workflows and Infrastructure as Code with Terraform, ArgoCD, and Kustomize
+- ☁️ GitOps workflows and Infrastructure as Code with Terraform, ArgoCD, Flux CD, and Kustomize
+- 🕸️ Service mesh implementation with Istio and observability using Kiali
 - 🧠 Advanced AI research in mechanistic interpretability and self-supervised learning
 - 🌐 Cloud-native solutions with Pulumi, EKS, and containerized deployments
 - 👥 Collaborative development on multi-repository, enterprise-scale projects
