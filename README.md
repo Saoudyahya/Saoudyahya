@@ -200,9 +200,6 @@ Designed and deployed end-to-end MLOps pipeline with 3 production ML application
 
 </div>
 
-### 📈 Contribution Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saoudyahya&theme=tokyonight)
-
 
 ---
 
