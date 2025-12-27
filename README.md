@@ -156,19 +156,7 @@ Architected and deployed a scalable, production-ready microservices ecosystem us
 - **Infrastructure & Messaging**: Integrated Docker for containerization, RabbitMQ for asynchronous messaging, and PostgreSQL for persistent storage.
 - **DevOps Automation**: Built end-to-end CI/CD pipelines using Jenkins, enabling auto-scaling, rolling updates, and centralized monitoring for production readiness.
 
-### ☁️ **Cloud-Native GitOps Platform**
-Designed and implemented a comprehensive GitOps-driven infrastructure platform using modern IaC principles and automated deployment strategies.
-- **Infrastructure as Code**: Provisioned AWS infrastructure using Terraform with modular, reusable configurations
-- **GitOps Workflow**: Implemented ArgoCD and Flux CD for declarative, Git-driven deployments with automatic synchronization and multi-cluster management
-- **Configuration Management**: Utilized Kustomize for environment-specific Kubernetes configurations and overlay management
-- **Service Mesh Integration**: Deployed Istio with Kiali for service-to-service communication observability and security
-- **Highlights**: Zero-downtime deployments, infrastructure drift detection, automated rollbacks, and multi-environment management
 
-### 🤖 **AI-Powered Content Generator with Agentic RAG**
-Developed and deployed a sophisticated LLM-based content generation system with retrieval-augmented generation capabilities using LangChain.
-- **Tech Stack**: Python, LangChain, TensorFlow, Kubernetes, Docker, Vector DB, Flux CD for deployment
-- **Highlights**: Real-time generation, Agentic RAG implementation, horizontal scaling, GitOps production deployment
-- **AI Focus**: Multi-agent RAG systems with intelligent orchestration and decision-making
 
 ### 🧬 **Self-Supervised Biodata Extraction System**
 Built an advanced self-supervised learning pipeline for automated biological data extraction and analysis with multiple downstream tasks.
@@ -182,14 +170,6 @@ Created intelligent glasses combining computer vision and NLP to assist visually
 - **Tech Stack**: YOLOv9, Python, OpenCV, LLM integration, React Native, FastAPI 
 - **Mission**: Making technology more inclusive and accessible
 - **Architecture**: System design for real-time processing and low-latency inference
-
-### 🔄 **Production MLOps Platform - 3 ML Applications Deployment**
-Designed and deployed end-to-end MLOps pipeline with 3 production ML applications in Kubernetes using GitOps principles.
-- **Tech Stack**: Transformers, RNN, LSTM, Kubernetes, Helm Charts, Flux CD, Kustomize
-- **Infrastructure**: Terraform-provisioned AWS EKS with GitOps-driven deployments and Kustomize overlays
-- **Deployment**: 3 ML applications with Prometheus & Grafana monitoring stack, automated via Flux CD
-- **Observability**: Integrated Kiali for service mesh visualization and distributed tracing across ML microservices
-- **Features**: Automated model prediction, fast deployment, monitoring, real-time metrics, and declarative infrastructure
 
 ---
 
