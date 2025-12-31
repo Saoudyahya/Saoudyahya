@@ -28,7 +28,13 @@ From developing microservices architectures to deploying machine learning models
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+
+### **Databases & Data Storage**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 ### **Frontend Development**
@@ -161,19 +167,6 @@ Architected and deployed a comprehensive, enterprise-grade e-commerce platform s
 - **Collaboration**: Built in partnership with **Rekhla Zakaria**
 - **Visual Documentation**: [Application Architecture](https://app.eraser.io/workspace/el7sNnsJe96fEgJclztv?origin=share) | [K8s Infrastructure](https://app.eraser.io/workspace/g1l4mIvbfEltNHNNYP0G?origin=share) | [GitOps Pipeline](https://app.eraser.io/workspace/xb6q22SZFLAD0ftPeuNO?origin=share) | [AWS Integration](https://app.eraser.io/workspace/W0KDmrzgWrCJ2C659BIG?origin=share)
 
-### 🏗️ **Enterprise Microservices Platform**
-Architected and deployed a scalable, production-ready microservices ecosystem using Spring Boot, Spring Cloud, and Docker, enhanced with robust CI/CD pipelines.
-- **Modular Architecture**: Designed microservices with Spring Boot and Spring Cloud, featuring service discovery, load balancing, and centralized configuration.
-- **Infrastructure & Messaging**: Integrated Docker for containerization, RabbitMQ for asynchronous messaging, and PostgreSQL for persistent storage.
-- **DevOps Automation**: Built end-to-end CI/CD pipelines using Jenkins, enabling auto-scaling, rolling updates, and centralized monitoring for production readiness.
-
-### 🤖 **MLOps Production Pipeline**
-Developed end-to-end MLOps infrastructure for automated model training, deployment, and monitoring across multi-cloud environments.
-- **Orchestration**: Implemented Kubeflow pipelines and Apache Airflow DAGs for reproducible ML workflows with version control and experiment tracking
-- **Multi-Cloud Deployment**: Deployed models on AWS SageMaker and Azure ML with unified monitoring and governance
-- **Storage & Artifacts**: Leveraged MinIO for artifact storage, model versioning, and data lake management
-- **Kubernetes Integration**: Orchestrated on AWS EKS and Azure AKS with automated scaling and resource optimization
-- **Monitoring**: Real-time model performance tracking with Prometheus and Grafana dashboards
 
 ### 🧬 **Self-Supervised Biodata Extraction System**
 Built an advanced self-supervised learning pipeline for automated biological data extraction and analysis with multiple downstream tasks.
