@@ -51,6 +51,7 @@ From developing microservices architectures to deploying machine learning models
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white)
 
 ### **AI/ML & Data Science**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -66,12 +67,20 @@ From developing microservices architectures to deploying machine learning models
 - Convolutional Neural Networks (CNNs) - Depth Estimation & Computer Vision
 - Self-Supervised Learning
 - Mechanistic Interpretability
+
+### **MLOps & ML Platforms**
+![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=flat&logo=kubeflow&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
   
 ### **DevOps & Cloud Infrastructure**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Kind](https://img.shields.io/badge/Kind-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=flat&logo=amazon-eks&logoColor=white)
+![Azure AKS](https://img.shields.io/badge/Azure_AKS-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![AWS ECS](https://img.shields.io/badge/AWS_ECS-FF9900?style=flat&logo=amazon-ecs&logoColor=white)
 ![AWS ECR](https://img.shields.io/badge/AWS_ECR-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
@@ -124,9 +133,11 @@ From developing microservices architectures to deploying machine learning models
 
 🔹 **Enterprise E-Commerce Solutions**: Delivered comprehensive cloud-native e-commerce ecosystem with 8 microservices, achieving 70% API optimization and <200ms response times  
 🔹 **MLOps Excellence**: Deployed 3 production ML applications in Kubernetes with comprehensive monitoring via Prometheus & Grafana using Helm charts  
+🔹 **ML Pipeline Orchestration**: Building automated ML workflows with Kubeflow and Airflow for end-to-end model training, validation, and deployment  
+🔹 **Multi-Cloud MLOps**: Implementing ML platforms across AWS SageMaker and Azure ML with unified monitoring and governance  
 🔹 **GitOps & IaC Mastery**: Implementing GitOps workflows with ArgoCD, Flux CD and Infrastructure as Code using Terraform and Kustomize for declarative deployments  
 🔹 **Service Mesh Observability**: Leveraging Istio with Kiali for advanced traffic management, security policies, and real-time service mesh visualization  
-🔹 **Multi-Repository Architecture**: Managing complex projects with 7+ specialized repositories, from local kind development to production AWS EKS deployment  
+🔹 **Multi-Repository Architecture**: Managing complex projects with 7+ specialized repositories, from local kind development to production AWS EKS and Azure AKS deployment  
 🔹 **AIOps Innovation**: Exploring AI-powered infrastructure optimization  
 🔹 **LLM Engineering**: Building production-ready LLM applications with RAG and agent frameworks  
 🔹 **DevSecOps**: Implementing security-first CI/CD pipelines with automated vulnerability scanning  
@@ -156,7 +167,13 @@ Architected and deployed a scalable, production-ready microservices ecosystem us
 - **Infrastructure & Messaging**: Integrated Docker for containerization, RabbitMQ for asynchronous messaging, and PostgreSQL for persistent storage.
 - **DevOps Automation**: Built end-to-end CI/CD pipelines using Jenkins, enabling auto-scaling, rolling updates, and centralized monitoring for production readiness.
 
-
+### 🤖 **MLOps Production Pipeline**
+Developed end-to-end MLOps infrastructure for automated model training, deployment, and monitoring across multi-cloud environments.
+- **Orchestration**: Implemented Kubeflow pipelines and Apache Airflow DAGs for reproducible ML workflows with version control and experiment tracking
+- **Multi-Cloud Deployment**: Deployed models on AWS SageMaker and Azure ML with unified monitoring and governance
+- **Storage & Artifacts**: Leveraged MinIO for artifact storage, model versioning, and data lake management
+- **Kubernetes Integration**: Orchestrated on AWS EKS and Azure AKS with automated scaling and resource optimization
+- **Monitoring**: Real-time model performance tracking with Prometheus and Grafana dashboards
 
 ### 🧬 **Self-Supervised Biodata Extraction System**
 Built an advanced self-supervised learning pipeline for automated biological data extraction and analysis with multiple downstream tasks.
@@ -187,7 +204,7 @@ Created intelligent glasses combining computer vision and NLP to assist visually
 ## 🤝 Let's Collaborate
 
 I'm always excited to work on innovative projects, especially those involving:
-- 🚀 MLOps and automated ML pipelines with LLM integration
+- 🚀 MLOps and automated ML pipelines with Kubeflow, Airflow, and multi-cloud platforms (AWS SageMaker, Azure ML)
 - 🛒 Enterprise e-commerce platforms and complex microservices ecosystems
 - ⚡ Scalable microservices architectures and system design
 - 🤖 AI-powered automation solutions using LangChain and RAG
@@ -195,7 +212,8 @@ I'm always excited to work on innovative projects, especially those involving:
 - ☁️ GitOps workflows and Infrastructure as Code with Terraform, ArgoCD, Flux CD, and Kustomize
 - 🕸️ Service mesh implementation with Istio and observability using Kiali
 - 🧠 Advanced AI research in mechanistic interpretability and self-supervised learning
-- 🌐 Cloud-native solutions with Pulumi, EKS, and containerized deployments
+- 🌐 Multi-cloud solutions with AWS EKS, Azure AKS, and containerized deployments
+- 📊 ML workflow orchestration and data pipeline automation
 - 👥 Collaborative development on multi-repository, enterprise-scale projects
 
 **Ready to turn ideas into reality? Let's connect!**
