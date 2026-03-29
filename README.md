@@ -70,12 +70,27 @@ From developing microservices architectures to deploying machine learning models
 - Mechanistic Interpretability
 
 ### **MLOps & ML Platforms**
+
+**🔬 Experiment Tracking**  
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
+
+**📦 Model Registry & Versioning**  
+![MLflow Registry](https://img.shields.io/badge/MLflow_Registry-0194E2?style=flat&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dvc&logoColor=white)
+
+**⚙️ ML Pipeline Orchestration**  
 ![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=flat&logo=kubeflow&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+
+**🚀 Model Serving**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![KServe](https://img.shields.io/badge/KServe-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+**☁️ Cloud ML Platforms**  
 ![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-  
+
 ### **DevOps & Cloud Infrastructure**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
@@ -134,7 +149,10 @@ From developing microservices architectures to deploying machine learning models
 
 🔹 **Enterprise E-Commerce Solutions**: Delivered comprehensive cloud-native e-commerce ecosystem with 8 microservices, achieving 70% API optimization and <200ms response times  
 🔹 **MLOps Excellence**: Deployed 3 production ML applications in Kubernetes with comprehensive monitoring via Prometheus & Grafana using Helm charts  
+🔹 **Experiment Tracking & Model Registry**: Managing full ML lifecycle with MLflow — from run logging and metric comparison to model versioning and staged promotions  
+🔹 **Data Versioning**: Implementing DVC for reproducible ML pipelines, versioning datasets alongside model code in Git workflows  
 🔹 **ML Pipeline Orchestration**: Building automated ML workflows with Kubeflow and Airflow for end-to-end model training, validation, and deployment  
+🔹 **Model Serving at Scale**: Deploying production inference APIs with FastAPI and KServe on Kubernetes with autoscaling and health monitoring  
 🔹 **Multi-Cloud MLOps**: Implementing ML platforms across AWS SageMaker and Azure ML with unified monitoring and governance  
 🔹 **GitOps & IaC Mastery**: Implementing GitOps workflows with ArgoCD, Flux CD and Infrastructure as Code using Terraform and Kustomize for declarative deployments  
 🔹 **Service Mesh Observability**: Leveraging Istio with Kiali for advanced traffic management, security policies, and real-time service mesh visualization  
@@ -193,6 +211,9 @@ Created intelligent glasses combining computer vision and NLP to assist visually
 
 I'm always excited to work on innovative projects, especially those involving:
 - 🚀 MLOps and automated ML pipelines with Kubeflow, Airflow, and multi-cloud platforms (AWS SageMaker, Azure ML)
+- 🔬 Experiment tracking and model registry with MLflow for full ML lifecycle management
+- 📦 Data versioning and reproducible pipelines with DVC
+- 🚢 Production model serving with FastAPI and KServe on Kubernetes
 - 🛒 Enterprise e-commerce platforms and complex microservices ecosystems
 - ⚡ Scalable microservices architectures and system design
 - 🤖 AI-powered automation solutions using LangChain and RAG
